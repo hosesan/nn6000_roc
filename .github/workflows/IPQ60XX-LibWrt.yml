@@ -8,7 +8,7 @@ on:
 
 env:
   REPO_URL: https://github.com/hosesan/nn6000_roc.git
-  REPO_BRANCH: main
+  REPO_BRANCH: master
   CONFIG_FILE: configs/IPQ60XX.config
   GENERAL_CONFIG_FILE: configs/General.config
   DIY_SCRIPT: scripts/Roc-script.sh
